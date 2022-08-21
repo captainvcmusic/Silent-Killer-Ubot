@@ -1,9 +1,9 @@
 <h1 align="center"> 
-   🎈 Cilik-Ubot 🎈
+   🎈 Silent-Killer-Ubot 🎈
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/file/d20fc177ac0cb0136d942.jpg" width="300" height="300"></a> </br>
+  <a href="#"><img src="https://telegra.ph/file/a74cbac673e648efd19d0.jpg" width="300" height="300"></a> </br>
 </p>
 
 ## Deploy With Heroku 💌
