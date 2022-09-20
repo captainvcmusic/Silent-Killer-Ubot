@@ -7,6 +7,14 @@
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
 # t.me/SharingUserbot & t.me/Lunatic0de
-# Cilik-PyroBot
 
-python3 -m Cilik
+_starter () {
+    echo "Downloading source code"
+    git clone https://github.com/grey423/Cilik-Ubot
+    cd Cilik-Ubot/ && rm -rf .git
+    python3 ../updater.py ../requirements.txt requirements.txt
+    echo "Cilik-Ubot v0.2.0, Copyright © 2022 (Risman) <https://github.com/mrismanaziz>"
+    python3 -m Cilik
+}
+
+_starter
